@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zahtaekuor.michaelhudson.net.au/sitemap.xml
